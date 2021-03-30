@@ -2,7 +2,7 @@
 
 ## Who am I?
 
-I am currently a senior at Adlai E Stevenson High School looking to pursue a degree in computer engineering.
+I am a senior at Adlai E Stevenson High School looking to pursue a degree in computer engineering.
 
 ## Connect with me!
 
