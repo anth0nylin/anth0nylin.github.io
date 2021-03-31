@@ -10,6 +10,6 @@ Email: anthonylin2826 \[at\] gmail \[dot\] com
 
 [LinkedIn](https://www.linkedin.com/in/anthony-lin-8a515a1b4/)
 
-Instagram
+[Instagram](https://www.instagram.com/anth0nylin/?hl=en)
 
-Facebook
+[Facebook]()
