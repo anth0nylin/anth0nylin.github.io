@@ -1,4 +1,4 @@
-# Welcome to my homepage!
+# Welcome to my corner of the internet!
 
 ## Who am I?
 
@@ -6,7 +6,9 @@ I am a senior at Adlai E Stevenson High School looking to pursue a degree in com
 
 ## Recent Work
 
-No content yet. Stay tuned!
+I am currently writing an application using the [openzwave API](http://www.openzwave.com/). This application will be implemented in a manufacturing plant to monitor energy consumption.
+
+I have also assisted with the [JTRP Incident Detection project](https://et.iupui.edu/research/images/jtrp-incident-detect.pdf).
 
 ## Connect with me!
 
