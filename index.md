@@ -6,9 +6,9 @@ I am a senior at Adlai E Stevenson High School looking to pursue a degree in com
 
 ## Recent Work
 
-I am currently writing an application using the [openzwave API](http://www.openzwave.com/). This application will be implemented in a manufacturing plant to monitor energy consumption.
+I am currently writing an application using the [openzwave API](http://www.openzwave.com/). This application will be implemented in a building to monitor its energy consumption.
 
-I have also assisted with the [JTRP Incident Detection project](https://et.iupui.edu/research/images/jtrp-incident-detect.pdf).
+In the past, I have assisted with the JTRP incident detection project at IUPUI. A brief overview can be found [here](https://et.iupui.edu/research/images/jtrp-incident-detect.pdf).
 
 ## Connect with me!
 
