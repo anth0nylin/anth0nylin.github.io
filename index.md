@@ -4,6 +4,10 @@
 
 I am a senior at Adlai E Stevenson High School looking to pursue a degree in computer engineering.
 
+## Recent Work
+
+No content yet. Stay tuned!
+
 ## Connect with me!
 
 Email: anthonylin2826 \[at\] gmail \[dot\] com
