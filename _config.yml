@@ -1,4 +1,4 @@
-theme: minimal-mistakes-jekyll
+theme: jekyll-theme-minimal
 title: Anthony Lin
 logo: /assets/img/IMG_0270.jpg
 gems: jekyll-seo-tag
